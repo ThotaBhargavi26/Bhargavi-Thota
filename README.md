@@ -14,6 +14,7 @@
 🚀 Projects
 - Multi-Factor Authentication System Using Face Recognition and Voice Verification
 - Chronic kidney disease prediction
+-  Smart Nearby Places- A location-based web application that helps users discover nearby places and services based on their location.
 
 🌱 Currently Learning
 - Python With Full Satck
