@@ -6,10 +6,16 @@
 - Python
 - SQL
 - Java
+- HTML
+- CSS
+- JavaScript
+- Django
 
 🔐 Interests
 - Artificial Intelligence
 - Machine Learning
+- Web Development
+- Software Development
 
 🚀 Projects
 - Multi-Factor Authentication System Using Face Recognition and Voice Verification
@@ -19,6 +25,7 @@
 🌱 Currently Learning
 - Python With Full Satck
 - Data Structures and Algorithms
+- Django
 
 📫 Connect with me
 - GitHub: https://github.com/ThotaBhargavi26
